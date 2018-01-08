@@ -1,7 +1,7 @@
 # OrgMusic
-This organise music:
-it input a location and create a new directory in C:\Output\.
-For eg:For eg: if the filename is <br />
+This organise music: <br />
+it input a location and create a new directory in C:\Output\. <br />
+For eg: if the filename is <br />
         Red-Already over <br />
         Red-Already Over(slow) <br />
         NEFFEX-Destiny <br />
