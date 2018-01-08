@@ -8,9 +8,10 @@ import java.util.Scanner;
 
 public class OrgLogic {
 	
+	Scanner in=new Scanner(System.in);
 	String path=in.nextLine;
 	String target_path="C:\\Output\\";
-  in.close
+	in.close();
 	
 	OrgLogic() throws IOException{
 		File f=new File(path); //loads the input dir path
