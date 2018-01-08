@@ -1,13 +1,13 @@
 # OrgMusic
 This organise music:
 it input a location and create a new directory in C:\Output\.
-For eg:For eg: if the filename is
-        Red-Already over_
-        Red-Already Over(slow)_
-        NEFFEX-Destiny_
+For eg:For eg: if the filename is <br />
+        Red-Already over <br />
+        Red-Already Over(slow) <br />
+        NEFFEX-Destiny <br />
 then it should create a directory name red and copy the file into it, For another artist it should NEFFEX folder and copy the file into it.
-example:
-       C:\Output\Red\Already over_
-       C:\Output\Red\Already over(slow)_
-       C:\Output\NEFFEX\Destiny_
+example: <br />
+       C:\Output\Red\Already over <br />
+       C:\Output\Red\Already over(slow) <br />
+       C:\Output\NEFFEX\Destiny <br />
 its delimiter is "-"
